@@ -52,7 +52,7 @@
 
 ### [1]  Dataset distillation
 
-Consider a training dataset :$X = {x_i}^N_{i=1}$  <!--训练数据集-->
+Consider a training dataset : $X = {x_i}^N_{i=1}$  <!--训练数据集-->
 
 parameterize the neural network as θ <!--模型-->
 
