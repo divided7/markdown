@@ -56,7 +56,7 @@ Consider a training dataset : $X = {x_i}^N_{i=1}$  <!--训练数据集-->
 
 parameterize the neural network as θ <!--模型-->
 
-denote $l(x_i,\theta)$ as the loss function that represents the loss of this network on a data point $x_i$.
+denote  $l(x_i,\theta)$ as the loss function that represents the loss of this network on a data point $x_i$.
 
  这篇文章的任务是最小化误差 $\theta ^* $:
 
